@@ -10,10 +10,7 @@ Follow the steps below to build and run the project using Docker.
 2. Unzip the project archive
     Extract the contents of the zipped file `unzip 8086-emulator-web-docker-master.zip`
 
-3. Move into the unzipped directory
-```bash
-cd 8086-emulator-web-docker-master/
-```
+3. Move into the unzipped directory `cd 8086-emulator-web-docker-master/`
 
 ## Running with Docker
 
