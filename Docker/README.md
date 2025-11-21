@@ -11,17 +11,28 @@ Follow the steps below to build and run the project using Docker.
     Extract the contents of the zipped file.
 
 3. Move into the unzipped directory
-`cd 8086-emulator-web/`
+```bash
+cd 8086-emulator-web/
+```
 
 ## Running with Docker
 
 **Build the Docker image**
-`docker compose build`
+```bash
+docker compose build
+```
 
 **Start the container**
-`docker compose up`
-This will launch all services defined in the `docker-compose.yml`
+```bash
+docker compose up
+```
+This will launch all services defined in the 
+```bash
+docker-compose.yml
+```
 
 **Stop the container**
-`docker compose down`
+```bash
+docker compose down
+```
 This will stop and remove the running container
